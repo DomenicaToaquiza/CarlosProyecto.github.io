@@ -15,7 +15,7 @@ body{
     margin: 0 auto;
 }
 
-#body{
+.body{
     background-image: url(imagenes/blue.jpg);
     background-repeat: no-repeat;
     background-position: center center;
