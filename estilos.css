@@ -17,12 +17,7 @@ body{
 
 .content{
     max-height: 80px;
-    background: linear-gradient(
-        90deg,
-        rgb(220, 89, 89)0%,
-        rgb(81, 50, 146)70%
-
-    );
+  
 }
 
 
@@ -37,11 +32,8 @@ body{
 
 }
 
-.logo{
+.menu-icono{
     font-size: 25px;
-    color:green;
-    text-transform: uppercase;
-    font-weight: bold;
 
 }
 
@@ -61,7 +53,7 @@ body{
 
 
 .menu .navbar ul li a:hover {
-    color: #ffffff;
+    color: #A4A4A4;
 }
 
 
@@ -72,10 +64,6 @@ body{
 
 
 
-
-.menu-icono{
-    width: 25px;  /* el tamaño   */
-}
 
 
 
