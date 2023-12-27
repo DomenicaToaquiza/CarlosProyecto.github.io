@@ -13,11 +13,11 @@ body{
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    background-color:rgb(240, 148, 90);
 }
 
 .content{
     max-height: 80px;
+    background-color:rgb(240, 148, 90);
   
 }
 
@@ -34,8 +34,7 @@ body{
 }
 
 .menu-icono{
-    font-size: 25px;
-    height: 250px;
+    height: 10;
     width: 260;
 
 }
