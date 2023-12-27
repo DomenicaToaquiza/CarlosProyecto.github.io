@@ -107,24 +107,24 @@ h1{
 
 
 
-div .galeria{
+div.galeria{
     margin: 10px 20px;
     box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgb(3, 4, 4);
     float: left;
     width: 350px;
 }
 
-div .galeria img{
+div.galeria img{
     width: 100%;
     height: auto;
 }
 
-div .galeria:hover{
+div.galeria:hover{
     border: 1px solid lightcoral;
     transform: rotate(-3deg);
 }
 
-div .pie{
+div.pie{
     text-align:center;
     text-shadow: 2px 2px 5px black;
     padding: 10px;
