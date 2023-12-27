@@ -15,7 +15,14 @@ body{
     margin: 0 auto;
 }
 
-
+#body{
+    background-image: url(imagenes/blue.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
 
 .menu{
