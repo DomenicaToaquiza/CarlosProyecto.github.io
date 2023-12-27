@@ -13,6 +13,7 @@ body{
 .container{
     max-width: 1200px;
     margin: 0 auto;
+    background-color:rgb(240, 148, 90);
 }
 
 .content{
@@ -34,6 +35,8 @@ body{
 
 .menu-icono{
     font-size: 25px;
+    height: 250px;
+    width: 260;
 
 }
 
