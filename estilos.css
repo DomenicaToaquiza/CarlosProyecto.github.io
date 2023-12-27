@@ -53,7 +53,7 @@ body{
 .menu .navbar ul li a{
     font-size: 18px;
     padding: 20px;
-    color:aqua;
+    color:rgb(0, 6, 6);
     display: block; 
     font-weight: bold;
 } /*   */
