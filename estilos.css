@@ -16,13 +16,9 @@ body{
 }
 
 .content{
-    max-height: 80px;
-    background: linear-gradient(
-        90deg,
-        rgba(203,18,133,1)0%,
-        rgba(80,49,145,1)70%
-
-    );
+   background-image: url(imagenes/abstract-template-background-white-and-gray-squares-free-vector.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
 
 }
 
