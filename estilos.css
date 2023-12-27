@@ -89,4 +89,16 @@ h1{
 
 
 
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+
+.imagen{
+    width: 350px;
+}
+
+
 
