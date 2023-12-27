@@ -19,8 +19,8 @@ body{
     max-height: 80px;
     background: linear-gradient(
         90deg,
-        rgb(21, 243, 143,1)0%,
-        rgba(80,49,145,1)70%
+        rgb(21, 243, 143)0%,
+        rgba(80,49,145)70%
 
     );
 }
@@ -99,8 +99,8 @@ h1{
         right: 0;
         background: linear-gradient(
             90deg,
-            rgb(21, 243, 143,1)0%,
-            rgba(80,49,145,1)70%
+            rgb(21, 243, 143)0%,
+            rgba(80,49,145)70%
     
         );
         display: none;
