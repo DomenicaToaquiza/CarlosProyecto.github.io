@@ -116,7 +116,7 @@ div.galeria:hover{
 }
 
 div.pie{
-    text-align:center;
+    text-align:left;
     text-shadow: 2px 2px 5px black;
     padding: 10px;
 }
